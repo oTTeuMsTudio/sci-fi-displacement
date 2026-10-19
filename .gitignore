@@ -1,0 +1,7 @@
+/target
+**/*.rs.bk
+*.exe
+*.pdb
+*.mp4
+.DS_Store
+.vercel
